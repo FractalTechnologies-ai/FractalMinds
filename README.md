@@ -1,6 +1,6 @@
 # FractalMinds
 
-# **Conversational Chaos: Exploring the Limits of LLMs in Infinite Social Interaction**
+# **Fractal Minds: Exploring the Limits of LLMs in Infinite Social Interaction**
 
 This repository contains the code and documentation for a research project that explores the emergent dynamics of infinite conversational exchanges between two large language models (LLMs). By simulating a continuous interaction between two automated accounts, the project investigates the boundaries of LLM capabilities, the onset of chaos, and the patterns that arise from prolonged social interaction.
 
